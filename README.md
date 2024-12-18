@@ -10,8 +10,7 @@ Este proyecto tiene como objetivo realizar un proceso completo de Extracción, T
 Realizar un flujo ETL que permita procesar datos crudos, limpiarlos, transformarlos e integrarlos en una base de datos secundaria.
 Crear visualizaciones para responder preguntas analíticas clave relacionadas con el rendimiento por zonas, empresas y propietarios.
 
-## Estructura del Proyecto.                                                                                                              
-/
+## Estructura del Proyecto.                                                                                                              /                                                                                                                                        
 ├── BD_OPORTUNIDADES_23_24.csv          # Base de datos original con datos crudos archivo .csv                                          
 ├── Oportunidadesdb.bak                 # Base de datos en SQL Server después de aplicar proceso ETL                               
 ├── Proceso ETL BD Oportunidades.ipynb  # Script de Jupiter Notebook del proceso ETL usando Python                                       
