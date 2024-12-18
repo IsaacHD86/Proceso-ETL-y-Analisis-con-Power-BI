@@ -91,7 +91,7 @@ Link de descarga de Power Bi Desktop:
 https://www.microsoft.com/es-es/power-platform/products/power-bi/desktop                                                                 
                                                                                                                                          
 Abrir Power BI o Excel y conectar al servidor SQL Server donde se almacenaron los datos procesados.                                     
-Cargar los datos relevantes desde la tabla procesada.                                                                                   
+Cargar los datos relevantes desde la tabla procesada.                                                                                                                                                                       
 Crear visualizaciones interactivas para responder preguntas clave:                                                                     
 ¿En qué zona (Zona) se ha dado la mejor venta en el último año? Identificar la región con mayor volumen de ventas en 2024, destacando    las tendencias por zona.                                                                                                                 
                                                                                                                                          
@@ -109,3 +109,6 @@ crecimiento anual.
 Si ya tienes instalado Power Bi Desktop, solo abre el archivo CasoTecnicoTecMty.pbix para poder visualizar los gráficos.                 
 Puedes personalizar el dashboards con filtros dinámicos, colores y etiquetas para mejorar la presentación.                               
 
+## Autor
+Isaac Heredia Diaz
+[GitHub](https://github.com/IsaacHD86)
