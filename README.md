@@ -12,11 +12,11 @@ Crear visualizaciones para responder preguntas analíticas clave relacionadas co
 
 ## Estructura del Proyecto.                                                                                                               
 /                                                                                                                                        
-├── BD_OPORTUNIDADES_23_24.csv                                                                                                          # Base de datos original con datos crudos archivo .csv   
-├── Oportunidadesdb.bak                                                    # Base de datos en SQL Server después de aplicar proceso ETL  
-├── Proceso ETL BD Oportunidades.ipynb                                     # Script de Jupiter Notebook del proceso ETL usando Python    
-├── Reto.pdf                                                               # Descripción del Reto                                        
-└── README.md                                                              # Documentación del proyecto                                  
+├── BD_OPORTUNIDADES_23_24.csv .   # Base de datos original con datos crudos archivo .csv   
+├── Oportunidadesdb.bak        .   # Base de datos en SQL Server después de aplicar proceso ETL  
+├── Proceso ETL BD Oportunidades.ipynb    .     # Script de Jupiter Notebook del proceso ETL usando Python    
+├── Reto.pdf   .                                # Descripción del Reto                                        
+└── README.md    .                              # Documentación del proyecto                                  
 
 ## Requisitos Técnicos
 
